@@ -58,3 +58,4 @@ Each `approach.md` includes:
 
 If you're on the same journey, feel free to fork, star, or reach out!  
 Let’s crack DSA together 💪
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shivam-tripathi-402559256/)
